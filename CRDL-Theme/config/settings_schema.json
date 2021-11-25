@@ -348,5 +348,16 @@
         "default": true
       }
     ]
+  },
+  {
+    "name:": "Custom SETTINGS",
+    "settings":   [
+      {
+        "type": "text",
+        "id": "custom_setting",
+        "label": "Something Custom Code",
+        "defaul": "Nothing"
+      }
+    ]
   }
 ]
